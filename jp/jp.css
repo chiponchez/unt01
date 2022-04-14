@@ -35,19 +35,19 @@ li {
 }
 
 .ru-link {
-    font-family: 'Zen Maru Gothic', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     border-right: 1px solid black;
     padding-right: 5px;
 }
 
 .en-link {
-    font-family: 'Zen Maru Gothic', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     border-right: 1px solid black;
     padding-right: 5px;
 }
 
 .kr-link {
-    font-family: 'Zen Maru Gothic', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     border-right: 1px solid black;
     padding-right: 5px;
 }
@@ -118,7 +118,7 @@ li {
     margin-right: auto;
     margin-bottom: px;
     height: 100px;
-    width: 70px;
+    width: 150px;
 }
 
 .contact:link,
