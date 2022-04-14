@@ -58,6 +58,18 @@ li {
     text-decoration: none;
 }
 
+.jp-link:link,
+.jp-link:visited {
+    color: rgba(166, 2, 2, 0.929);
+    text-decoration: none;
+}
+
+.kr-link:link,
+.kr-link:visited {
+    color: rgba(166, 2, 2, 0.929);
+    text-decoration: none;
+}
+
 .char-name {
     font-size: 32px;
     font-family: 'Permanent Marker', cursive;
