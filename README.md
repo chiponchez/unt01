@@ -1,4 +1,4 @@
 untitled 01.
 
 
-This is my first html + css project. I just want to post it here so skilled web developers can look at it and point at my mistakes (i'll be glad if you do that).
+This is my first simple html + css project. Will be glad if you (yeah, yeah you - who's reading this) point at my mistakes, it'll really help me in future :).
